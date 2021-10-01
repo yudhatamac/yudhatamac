@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yudhatamac
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on project related to ML
 - 📫 Reach me at candra.yudhatama@gmail.com
 
